@@ -1,5 +1,7 @@
 <?php
 
+define("APP_FLAG", TRUE);
+
 require "Taco.Class.php";
 
 $T = new AccessControl(TRUE);
