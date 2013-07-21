@@ -3,7 +3,7 @@
 define("DB_DRIVER",  "mongo"); //mysql, mongo
 define("DB_HOST", "localhost"); //db host
 define("DB_USER", "jfensign"); //db user
-define("DB_PASS", "George89"); //db pass
+define("DB_PASS", "pass"); //db pass
 define("DB_NAME", "taco"); //db name
 define("DB_TABLE", "ip_blacklist"); //table (in this context) is analogous to mongo's collection
 
